@@ -1,4 +1,4 @@
-# Meridian 🛹
+# Meridian
 
 > A smart longboard system with haptic navigation, ride analytics, and an open companion app.
 
